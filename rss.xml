@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testinggg]]></title>
+        <description><![CDATA[testinggg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 00:23:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Egg boy]]></title>
+            <description><![CDATA[<article><h1>Egg boy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a98d206-9956-4f2a-8e9b-39191b7f0b24.png"></article>]]></description>
+            <link>undefinedegg-boy/index.html</link>
+            <guid isPermaLink="false">c0742458-b62f-482c-9893-171168915779</guid>
+            <pubDate>Sun, 10 Apr 2016 00:23:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
