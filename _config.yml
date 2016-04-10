@@ -1,0 +1,28 @@
+name: testinggg
+favicon: null
+layout_spectrum: 0.21019650879316032
+typography_spectrum: 0.8383124659303576
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6539247948676348
+  lightness: 0.3253856918308884
+  saturation: 0.7527841660194099
+  rhythmicContrast: 0.6606257606763393
+purpose: []
