@@ -4,7 +4,7 @@
         <description><![CDATA[testinggg]]></description>
         <link>https://thegrid.ai/testinggg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 00:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 00:36:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testinggg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Egg boy]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/testinggg/c737f8ff-2eb3-4092-9d6e-efb29654e579/index.html</link>
             <guid isPermaLink="false">c737f8ff-2eb3-4092-9d6e-efb29654e579</guid>
             <pubDate>Sun, 10 Apr 2016 00:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>whatever</p>]]></description>
-            <link>https://thegrid.ai/testinggg/4a482a30-971e-41c7-b77b-c5f94519f285/index.html</link>
-            <guid isPermaLink="false">4a482a30-971e-41c7-b77b-c5f94519f285</guid>
-            <pubDate>Sun, 10 Apr 2016 00:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
