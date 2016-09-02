@@ -1,28 +1,40 @@
-name: testinggg
-favicon: null
-layout_spectrum: 0.88229
-typography_spectrum: 0.43292
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.311828
+  brandStrength: 0.1875
+  lightness: 0.5125448
   brandColors:
     - '#f3ead9'
     - '#f1a1ae'
     - '#2a307a'
     - '#e06377'
     - '#7b739c'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.5322581
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: testinggg
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.43292
+layout_spectrum: 1
